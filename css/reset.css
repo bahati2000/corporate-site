@@ -29,7 +29,7 @@ h3 {
 }
 
 .primary {
-	color: #e743c3;
+	color: #e74c3c;
 }
 
 .primary-bg {
@@ -40,7 +40,7 @@ h3 {
 	color: #34495e;
 }
 
-.secondary-dark-blue--bg {
+.secondary-dark-blue-bg {
 	background-color: #34495e;
 }
 
@@ -54,6 +54,14 @@ h3 {
 
 a:focus {
 	outline: 0;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+ol, ul {
+	margin-bottom: 0px;
 }
 
 ul {
