@@ -72,8 +72,9 @@ ul li {
 	display: inline-block;
 }
 
-
-
+.section-padding {
+	padding: 56px 0;
+}
 
 
 

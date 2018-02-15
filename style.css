@@ -99,7 +99,20 @@ header nav ul li a:hover {
 	color: #e74c3c;
 }
 
+/* Services Section */
 
+.services {
+	text-align: center;
+}
+
+.services .services-content i {
+	font-size: 32px;
+	color: #555;
+}
+
+.services-header {
+	margin-bottom: 42px;
+}
 
 
 
