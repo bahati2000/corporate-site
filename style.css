@@ -113,7 +113,7 @@ header nav ul li a:hover {
 	color: #555;
 }
 
-.services-header, .portfolio-header, .team-header, .testimonials-header {
+.services-header, .portfolio-header, .team-header, .testimonials-header, .blog-header, .contact-header {
 	margin-bottom: 42px;
 	text-align: center;
 }
@@ -398,9 +398,22 @@ blockquote:after {
 	color: #e74c3c;
 }
 
+/* Blog Section */
 
+.blog b.date {
+	color: #333;
+}
 
+.blog h3 a {
+	transition: all 0.3s ease-in;
+	-webkit-transition: all 0.3s ease-in;
+	-moz-transition: all 0.3s ease-in;
+	-o-transition: all 0.3s ease-in;
+}
 
+.blog h3 a:hover {
+	color: #e74c3c;
+}
 
 
 
